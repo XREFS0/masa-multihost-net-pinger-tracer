@@ -1,0 +1,14 @@
+# Build and Compilation Artifacts
+bin/
+obj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+.vs/
+*.pdb
+*.cache
+*.log
+screenshots/
+_project_info.txt
+????.txt

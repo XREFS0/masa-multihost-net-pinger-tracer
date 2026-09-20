@@ -1,0 +1,178 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="NetPinger.Properties.Resources" Collapsed="true">
+    <Position X="0.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NetPinger.Properties.Settings" Collapsed="true">
+    <Position X="2.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NetPinger.AboutForm" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAABAAAACAAAACAAAAAAAAAAAAAABAAAA=</HashCode>
+      <FileName>source\AboutForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NetPinger.AddDataSeriesForm" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAACCAAABgAAACAAAACAACACAACABDAmAAAAAE=</HashCode>
+      <FileName>source\AddDataSeriesForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NetPinger.ChooseIPForm" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQACAAABAAAACAAAMCAgAAAQAAAAAAAAAAAAA=</HashCode>
+      <FileName>source\ChooseIPForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NetPinger.CreateSeriesGroupForm" Collapsed="true">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAABAAAACAAAACEACAAAAAAAAAEAAAAAE=</HashCode>
+      <FileName>source\CreateSeriesGroupForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NetPinger.EditDataSeriesForm" Collapsed="true">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAACAAABoAAACAAAACAAAAAAQAAUBACAQAAAk=</HashCode>
+      <FileName>source\EditDataSeriesForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NetPinger.GraphForm" Collapsed="true">
+    <Position X="5.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAACACABABBAAACgAIASAAAAAgAAAABBACAAACE=</HashCode>
+      <FileName>source\GraphForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NetPinger.GraphManager" Collapsed="true">
+    <Position X="7.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAYIABARAEIAEIAIAAAEAggIABAEggCAEAABAAAAA=</HashCode>
+      <FileName>source\GraphManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NetPinger.DataSeriesNameParser" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAgAAAAAgAAAgAEAEAAAACIAAAAI0AAAABQBAAAAAE=</HashCode>
+      <FileName>source\HostDataSeries.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NetPinger.HostDataSeries" Collapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAhIABMCEAJksQQUAgEAAMACgDAAAAAAEFAEEBkA=</HashCode>
+      <FileName>source\HostDataSeries.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NetPinger.HostOptions" Collapsed="true">
+    <Position X="2.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>MAAAAIACACCAoBQQABWAAAkiIACACAAAAAIAFAAQAAA=</HashCode>
+      <FileName>source\HostOptions.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NetPinger.IPScanForm" Collapsed="true">
+    <Position X="4" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>RAFFFIBgGGAAEBRZgCDECAIHRBggQIEEIQgRQAIAEoA=</HashCode>
+      <FileName>source\IPScanForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NetPinger.IPTraceForm" Collapsed="true">
+    <Position X="5.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAhABAACQCMhBMCCLAAaQCAAAgQICAJCgAAAIAAAA=</HashCode>
+      <FileName>source\IPTraceForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NetPinger.ListViewDB" Collapsed="true">
+    <Position X="7.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>source\ListViewDB.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NetPinger.DefaultLogger" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAAAAAAAQAAAEAABAgAAIAAQBAAAEAAAAA=</HashCode>
+      <FileName>source\Logger.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="NetPinger.ColumnWidth" Collapsed="true">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAEAAABABAAAIAAAAAAAAAAA=</HashCode>
+      <FileName>source\Options.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NetPinger.Options" Collapsed="true">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BQCElQBC4FACCAQACwCAbGQgEATnAQABQCAAAAAEAKQ=</HashCode>
+      <FileName>source\Options.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NetPinger.PingForm" Collapsed="true">
+    <Position X="2.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AYSHjL0YA2QWIoSyE46RkaKjApIAq4geCNBhhDwSIUE=</HashCode>
+      <FileName>source\PingForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NetPinger.Program" Collapsed="true">
+    <Position X="4" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>source\Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NetPinger.ProgramOptions" Collapsed="true">
+    <Position X="5.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAEACAAIDAAAACAAgACCACAAQABAABAEAAAACA=</HashCode>
+      <FileName>source\ProgramOptions.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NetPinger.ProgressBarEx" Collapsed="true">
+    <Position X="7.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAQAAACAAAAAIAACCAAAiACAAAAAIAAAACQACAAA=</HashCode>
+      <FileName>source\ProgressBarEx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="NetPinger.SeriesDataSources" Collapsed="true">
+    <Position X="0.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAAAAgAAQUAAAAAAAAABAAAAAAAAAAEBkA=</HashCode>
+      <FileName>source\HostDataSeries.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Delegate Name="NetPinger.UpdateIPAddressDelegate" Collapsed="true">
+    <Position X="2.25" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACA=</HashCode>
+      <FileName>source\HostOptions.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Delegate Name="NetPinger.ShowErrorDelegate" Collapsed="true">
+    <Position X="0.5" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>source\HostOptions.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
